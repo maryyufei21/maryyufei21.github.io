@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_uw2.jpg"
   name             : "Yufei Gao"
-  pronouns         : # example: "she/her"  
+  pronouns         : "" # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
