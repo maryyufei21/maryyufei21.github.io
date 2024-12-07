@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Yufei Gao's Homepage"
 title_separator          : "-"
-name                     : &name "Home"
+name                     : &name "Home" # the name of the site
 description              : &description "I am a senior year undergraduate student at Tsinghua University, majoring in Electronic Engineering. I am seeking for graduate positions for 2025 fall."
 url                      : https://maryyufei21.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
