@@ -6,8 +6,8 @@ permalink: /publication/Nanoflow
 excerpt: 'Throughput-oriented LLM serving system'
 date: 2024-08-22
 venue: 'arXiv'
-slidesurl: 'http://academicpages.github.io/files/Nanoflow-slides.pdf'
-paperurl: 'http://academicpages.github.io/files/Nanoflow-paper.pdf'
+slidesurl: 'http://maryyufei21.github.io/files/Nanoflow-slides.pdf'
+paperurl: 'http://maryyufei21.github.io/files/Nanoflow-paper.pdf'
 citation: 'Kan Zhu, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile Gu, Dedong Xie, Yufei Gao, Qinyu Xu, Tian Tang, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Stephanie Wang, Arvind Krishnamurthy, Baris Kasikci'
 ---
 
