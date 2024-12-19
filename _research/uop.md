@@ -1,7 +1,7 @@
 ---
 title: "FURBYS"
 collection: research
-# type: "Workshop"
+type: "supervisor: Shuwen Deng, Baris Kasikci"
 permalink: /research/uop
 # venue: ""
 date: 2024

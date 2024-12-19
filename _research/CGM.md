@@ -1,7 +1,7 @@
 ---
 title: "Continuous Glucose Monitoring (CGM) Techniques"
 collection: research
-# type: "Undergraduate course"
+type: "supervisor: Xing Sheng"
 permalink: /research/CGM
 venue: "Tsinghua University, Advanced BioPhotonic Devices Group"
 date: 2023
