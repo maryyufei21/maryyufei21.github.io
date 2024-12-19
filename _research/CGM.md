@@ -9,5 +9,5 @@ date: 2023-03-01
 ---
 
 Reviewed the latest developments in CGM technologies
-<div style="height:15px;"></div>
+<div style="height:8px;"></div>
 Conducted reverse engineering of CGM devices from various manufacturers

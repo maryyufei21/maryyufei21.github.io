@@ -9,5 +9,5 @@ date: 2024-03-01
 ---
 
 Mimicked near-optimal offline policy FLACK
-<div style="height:15px;"></div>
+<div style="height:8px;"></div>
 Provided 14.34% average miss reduction compared to LRU
