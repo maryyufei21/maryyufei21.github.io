@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Research experience 2"
 collection: research
 type: "Workshop"
 permalink: /research/2015-spring-teaching-1
