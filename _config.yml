@@ -80,6 +80,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  arxiv:
+    title: 'Preprints'
   conferences:
     title: 'Conference Papers'
 
