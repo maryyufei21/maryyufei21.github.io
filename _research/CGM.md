@@ -4,7 +4,7 @@ collection: research
 type: "supervisor: Xing Sheng"
 permalink: /research/CGM
 venue: "Tsinghua University, Advanced BioPhotonic Devices Group"
-date: 2023
+date: 2023-03-01
 # location: "City, Country"
 ---
 

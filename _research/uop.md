@@ -4,7 +4,7 @@ collection: research
 type: "supervisor: Shuwen Deng, Baris Kasikci"
 permalink: /research/uop
 # venue: ""
-date: 2024
+date: 2024-03-01
 # location: "City, Country"
 ---
 
