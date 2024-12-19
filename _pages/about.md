@@ -9,7 +9,9 @@ redirect_from:
 
 
 Welcome to Yufei Gao's homepage! I am a senior year undergraduate student at Tsinghua University, majoring in Electronic Engineering. I am seeking for graduate positions for 2025 fall.
+
 My research interests:
+
 - Computer Architecture
 - Hardware-software co-optimization, prefetchers, replacement policies
 - Machine Learning Systems
